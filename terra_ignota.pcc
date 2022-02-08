@@ -1,0 +1,11 @@
+CAMPAIGN:Terra Ignota
+GAMEMODE:Pathfinder
+RANK:1
+GENRE:Fantasy
+BOOKTYPE:Homebrew
+SETTING:Terra Ignota
+TYPE:Homebrew.PathfinderHomebrew
+SOURCEDATE:2019-07
+
+EQUIPMENT:terra_ignota_equipment.lst
+LANGUAGE:terra_ignota_languages.lst
